@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello world
 welcome to workshop\how are you
+=======
+>>>>>>> parent of 3afeb16 (hello maham)
